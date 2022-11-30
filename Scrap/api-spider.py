@@ -28,12 +28,15 @@ ws3 = wb.create_sheet(title="Covid")
 pdata = ['Data', 'Titulo', 'Descricao', 'Url',]
 ws3.append(pdata)
 
-sites = ['http://ac24horas.com', 'http://contilnetnoticias.com.br', 'http://correio68.com','http://folhadoacre.com.br', 'http://yaconews.com',
-'http://jornalopiniao.net', 'http://3dejulhonoticias.com.br', 'https://ecosdanoticia.net.br' ]
+sites = ['http://ac24horas.com', 'http://contilnetnoticias.com.br', 'http://correio68.com',
+'http://folhadoacre.com.br', 'http://yaconews.com', 'http://jornalopiniao.net', 'http://3dejulhonoticias.com.br', 
+'https://ecosdanoticia.net.br', 'https://agazetadoacre.com', 'https://www.acre.com.br', 'https://acreagora.com', 'https://oaltoacre.com/' ]
 
-for i in range(0,8):
+for i in range(0,12):
     url = (sites[i] + '/wp-json/wp/v2/posts')
     response = requests.get(url)
+
+    print(url)
 
     data = response.text
     dados = json.loads(data)
@@ -51,7 +54,7 @@ for i in range(0,8):
         pdata = (data, titulo, descricao, link)
 
         #Criando uma nova planilha para a palavra chave Cameli
-        if 'covid' in descricao:
+        if 'covid' in titulo:
            active_sheet = wb['Covid']
            ws3.append(pdata)
 
