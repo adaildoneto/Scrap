@@ -28,10 +28,14 @@ ws3 = wb.create_sheet(title="Covid")
 pdata = ['Data', 'Titulo', 'Descricao', 'Url',]
 ws3.append(pdata)
 
-sites = ['http://ac24horas.com', 'http://contilnetnoticias.com.br', 'http://correio68.com','http://folhadoacre.com.br', 'http://yaconews.com', 
-'http://jornalopiniao.net', 'http://3dejulhonoticias.com.br', 'https://ecosdanoticia.net.br' ]
+sites = ['http://ac24horas.com', 'http://contilnetnoticias.com.br', 'http://correio68.com',
+'http://folhadoacre.com.br', 'http://yaconews.com', 'http://jornalopiniao.net', 'http://3dejulhonoticias.com.br', 
+'https://ecosdanoticia.net.br', 'https://agazetadoacre.com', 'https://www.acre.com.br', 'https://acreagora.com', 
+'https://oaltoacre.com', 'https://agazeta.net', 'http://noticiasdahora.com.br',  'https://oacreagora.com', ]
 
-for i in range (0,8): 
+jsite = len (sites)
+
+for i in range (jsite):
     url = (sites[i] + '/feed')
     response = requests.get(url)
     soup = bs (response.content, features='xml')
@@ -43,6 +47,7 @@ for i in range (0,8):
         #autor = item.find('dc:creator').text
         descricao = item.find('description').text
         url = item.find('link').text
+        img = item.find('img').text
         #conteudo = item.find('content:encoded').text
 
         #estruturando o conteudo dentro da celula
