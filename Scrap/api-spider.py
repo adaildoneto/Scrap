@@ -4,6 +4,7 @@ import json
 from openpyxl import Workbook, load_workbook
 # If you need to get the column letter, also import this
 from openpyxl.utils import get_column_letter
+import pandas as pd
 
 # criando a planilha workbook
 wb = Workbook()
@@ -15,23 +16,14 @@ ws1 = wb.active
 ws1.title = 'Olho de Thundera'
 
 #criando a primeira linha da tabela para servir de guia
-pdata = ['Data', 'Titulo', 'Descricao', 'Url','Imagem']
+pdata = ['Data', 'Hora', 'Titulo', 'Descricao', 'Url','Imagem']
 ws1.append(pdata)
 
-#criando a planilha Polícia
-ws2 = wb.create_sheet(title="Polícia")
-pdata = ['Data', 'Titulo', 'Descricao', 'Url','Imagem']
-ws2.append(pdata)
-
-#criando a planilha Covid
-ws3 = wb.create_sheet(title="Covid")
-pdata = ['Data', 'Titulo', 'Descricao', 'Url','Imagem']
-ws3.append(pdata)
-
-sites = ['http://ac24horas.com', 'http://contilnetnoticias.com.br', 'http://correio68.com',
-'http://folhadoacre.com.br', 'http://yaconews.com', 'http://jornalopiniao.net', 'http://3dejulhonoticias.com.br', 
-'https://ecosdanoticia.net.br', 'https://agazetadoacre.com', 'https://www.acre.com.br', 'https://acreagora.com', 
-'https://oaltoacre.com', 'https://agazeta.net', 'http://noticiasdahora.com.br',  'https://oacreagora.com', ]
+sites = ['http://ac24horas.com', 'http://contilnetnoticias.com.br', 'http://correio68.com', 'https://agencia.ac.gov.br', 'https://nahoradanoticia.com.br',
+'http://folhadoacre.com.br', 'http://yaconews.com', 'http://jornalopiniao.net', 'http://3dejulhonoticias.com.br', 'https://noticiadoacre.com.br',
+'http://ecosdanoticia.net.br', 'http://agazetadoacre.com', 'http://www.acre.com.br', 'http://acreagora.com', 'https://acreinfoco.com', 'https://acjornal.com',
+'http://oaltoacre.com', 'http://agazeta.net', 'http://noticiasdahora.com.br',  'http://oacreagora.com', 'https://www.noticiasdafronteira.com.br', 
+'https://www.juruaonline.com.br', 'https://www.juruaemtempo.com.br',]
 
 jnews = len (sites)
 
@@ -54,20 +46,15 @@ for i in range (jnews):
          except KeyError:
           img = 'Imagem não encontrada'        
          
-         data = j['date']
+         try:
+            cdata = j['date']
+            cdata1 = cdata[0:10]
+            chora = cdata[11:20]
+         except KeyError:
+            cdata = 0
 
          #estruturando o conteudo dentro da celula
-         pdata = (data, titulo, descricao, link, img)
-
-         #Criando uma nova planilha para a palavra chave Cameli
-         if 'covid' in titulo:
-            active_sheet = wb['Covid']
-            ws3.append(pdata)
-
-         # Criando uma nova planilha para a palavra chave Bocalom
-         if 'polícia' in descricao:
-            active_sheet = wb['Polícia']
-            ws2.append(pdata)
+         pdata = (cdata1, chora, titulo, descricao, link, img)
 
          # ativando a planilha workbook
          ws1.append(pdata)
@@ -76,3 +63,16 @@ for i in range (jnews):
 
 # Salvando o planilha
 wb.save('thundera.xlsx')
+
+# lendo a planilha The Eye of Thundera
+df1 = pd.read_excel('thundera.xlsx')
+
+# ordenando a planilha por data e hora
+ok = df1.sort_values(by=['Data', 'Hora'])
+print ('Planinha Atualizada')
+
+ok.to_json(r'thunder-ordenado.json')
+print ('Criando Json')
+
+ok.to_excel("thundera-ordenado.xlsx")
+print ('Planinha Atualizada')
