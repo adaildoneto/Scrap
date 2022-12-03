@@ -510,3 +510,34 @@ JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch res
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
 JavaScript warning: https://cdn.ftd.agency/libs/e.js, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670040390191	Marionette	INFO	Stopped listening on port 57552
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adail\\AppData\\Local\\Temp\\rust_mozprofile5tvAyj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59178/devtools/browser/96daa5a1-e088-4b72-8185-9fdbd9150f55
+1670040388362	Marionette	INFO	Stopped listening on port 59215
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adail\\AppData\\Local\\Temp\\rust_mozprofilepIWLOs"
+1670040332976	Marionette	INFO	Marionette enabled
+1670040332984	Marionette	INFO	Listening on port 59743
+Read port: 59743
+WebDriver BiDi listening on ws://127.0.0.1:59708
+1670040333204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adail\\AppData\\Local\\Temp\\rust_mozprofilepIWLOs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59708/devtools/browser/9fda12ee-8ae8-4a0d-9cd2-8aeacd3fee95
+1670040387370	Marionette	INFO	Stopped listening on port 59743
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adail\\AppData\\Local\\Temp\\rust_mozprofileednOZM"
+1670040376766	Marionette	INFO	Marionette enabled
+1670040376773	Marionette	INFO	Listening on port 60056
+Read port: 60056
+WebDriver BiDi listening on ws://127.0.0.1:60019
+1670040376994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adail\\AppData\\Local\\Temp\\rust_mozprofileednOZM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60019/devtools/browser/2089e2e7-a238-4ec5-a1ea-af085e61b8ac
+1670040383836	Marionette	INFO	Stopped listening on port 60056
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

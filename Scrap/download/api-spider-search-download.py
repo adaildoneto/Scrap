@@ -105,7 +105,7 @@ for i in range (jnews):
                active_sheet = wb['Olho de Thundera']
                ws1.append(pdata)
          else:
-            print('Artigo não disponivel' +)
+            print('Artigo não disponivel' + pturl)
          
     else:
       print('site ' + turl + ' não habilitado para o json')
