@@ -1,0 +1,512 @@
+1670037235538	geckodriver	INFO	Listening on 127.0.0.1:57478
+1670037238574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\adail\\AppData\\Local\\Temp\\rust_mozprofileEXLNsX"
+1670037239312	Marionette	INFO	Marionette enabled
+1670037239320	Marionette	INFO	Listening on port 57552
+Read port: 57552
+WebDriver BiDi listening on ws://127.0.0.1:57479
+1670037239551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adail\\AppData\\Local\\Temp\\rust_mozprofileEXLNsX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57479/devtools/browser/47e48939-8f50-4cde-854a-e9e276eec31d
+JavaScript error: https://ac24horas.com/2022/08/31/parceria-entre-estado-e-tjac-permite-que-interpretes-de-libras-auxiliem-em-audiencias/ line 1 > injectedScript, line 5: ReferenceError: on is not defined
+JavaScript error: https://ac24horas.com/2022/08/25/tjac-realiza-edicao-do-projeto-cidadao-nesta-quinta-feira-em-assis-brasil/ line 1 > injectedScript, line 5: ReferenceError: on is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ac24horas.com/2022/08/24/tjac-entrega-novos-computadores-e-rede-wi-fi-no-forum-da-comarca-de-xapuri/ line 1 > injectedScript, line 5: ReferenceError: on is not defined
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://ac24horas.com/ because the registration has been changed since the update was scheduled.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ac24horas.com/2022/08/19/tjac-e-uma-das-entidades-que-fiscalizam-a-confiabilidade-das-urnas-nas-eleicoes-2022/ line 1 > injectedScript, line 5: ReferenceError: on is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://ac24horas.com/ because the registration has been changed since the update was scheduled.
+JavaScript error: https://ac24horas.com/2022/08/11/desembargador-samoel-evangelista-a-trajetoria-de-20-anos-de-carreira-no-tjac/ line 1 > injectedScript, line 5: ReferenceError: on is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 3968 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ac24horas.com/2022/07/14/ex-vereadora-de-mancio-lima-e-condenada-pelo-tjac-por-improbidade-administrativa/ line 1 > injectedScript, line 5: ReferenceError: on is not defined
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://ac24horas.com/ because the registration has been changed since the update was scheduled.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4755 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ac24horas.com/2022/07/13/tjac-entrega-central-de-processamento-eletronico-nesta-quinta-feira/ line 1 > injectedScript, line 5: ReferenceError: on is not defined
+1670037269479	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5300 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ac24horas.com/2022/07/12/sejusp-apresenta-o-aplicativo-mulher-segura-ao-tjac-mpac-e-defensoria-publica/ line 1 > injectedScript, line 5: ReferenceError: on is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 3688 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://ac24horas.com/2022/07/12/em-audiencia-longo-pede-ao-tjac-que-nao-extinga-comarcas-no-acre/ line 1 > injectedScript, line 5: ReferenceError: on is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://ac24horas.com/2022/06/27/tjac-e-iluminado-com-cores-do-arco-iris-em-homenagem-ao-mes-do-orgulho-lgbtqiap/ line 1 > injectedScript, line 5: ReferenceError: on is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4250 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: Failed to update the ServiceWorker for scope https://ac24horas.com/ because the registration has been changed since the update was scheduled.
+JavaScript error: https://unpkg.com/@lottiefiles/lottie-player@1.5.5/dist/lottie-player.js, line 20: NotSupportedError: CustomElementRegistry.define: 'lottie-player' has already been defined as a custom element
+JavaScript error: https://correio68.com/wp-content/themes/UbberCorreio68/assets/js/menustick.js, line 110: TypeError: btnDelete is null
+JavaScript error: https://correio68.com/wp-content/plugins/lottiefiles/build/frontend-helper.js?ver=52a84b0e5fbe4953e4b3, line 1: TypeError: a.rest is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1105 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://unpkg.com/@lottiefiles/lottie-player@1.5.5/dist/lottie-player.js, line 20: NotSupportedError: CustomElementRegistry.define: 'lottie-player' has already been defined as a custom element
+JavaScript error: https://correio68.com/wp-content/themes/UbberCorreio68/assets/js/menustick.js, line 110: TypeError: btnDelete is null
+JavaScript error: https://correio68.com/wp-content/plugins/lottiefiles/build/frontend-helper.js?ver=52a84b0e5fbe4953e4b3, line 1: TypeError: a.rest is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 6177 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://unpkg.com/@lottiefiles/lottie-player@1.5.5/dist/lottie-player.js, line 20: NotSupportedError: CustomElementRegistry.define: 'lottie-player' has already been defined as a custom element
+JavaScript error: https://correio68.com/wp-content/themes/UbberCorreio68/assets/js/menustick.js, line 110: TypeError: btnDelete is null
+JavaScript error: https://correio68.com/wp-content/plugins/lottiefiles/build/frontend-helper.js?ver=52a84b0e5fbe4953e4b3, line 1: TypeError: a.rest is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5916 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://unpkg.com/@lottiefiles/lottie-player@1.5.5/dist/lottie-player.js, line 20: NotSupportedError: CustomElementRegistry.define: 'lottie-player' has already been defined as a custom element
+JavaScript error: https://correio68.com/wp-content/themes/UbberCorreio68/assets/js/menustick.js, line 110: TypeError: btnDelete is null
+JavaScript error: https://correio68.com/wp-content/plugins/lottiefiles/build/frontend-helper.js?ver=52a84b0e5fbe4953e4b3, line 1: TypeError: a.rest is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1452 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://unpkg.com/@lottiefiles/lottie-player@1.5.5/dist/lottie-player.js, line 20: NotSupportedError: CustomElementRegistry.define: 'lottie-player' has already been defined as a custom element
+JavaScript error: https://correio68.com/wp-content/themes/UbberCorreio68/assets/js/menustick.js, line 110: TypeError: btnDelete is null
+JavaScript error: https://correio68.com/wp-content/plugins/lottiefiles/build/frontend-helper.js?ver=52a84b0e5fbe4953e4b3, line 1: TypeError: a.rest is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 97 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://unpkg.com/@lottiefiles/lottie-player@1.5.5/dist/lottie-player.js, line 20: NotSupportedError: CustomElementRegistry.define: 'lottie-player' has already been defined as a custom element
+JavaScript error: https://correio68.com/wp-content/themes/UbberCorreio68/assets/js/menustick.js, line 110: TypeError: btnDelete is null
+JavaScript error: https://correio68.com/wp-content/plugins/lottiefiles/build/frontend-helper.js?ver=52a84b0e5fbe4953e4b3, line 1: TypeError: a.rest is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5617 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://unpkg.com/@lottiefiles/lottie-player@1.5.5/dist/lottie-player.js, line 20: NotSupportedError: CustomElementRegistry.define: 'lottie-player' has already been defined as a custom element
+JavaScript error: https://correio68.com/wp-content/themes/UbberCorreio68/assets/js/menustick.js, line 110: TypeError: btnDelete is null
+JavaScript error: https://correio68.com/wp-content/plugins/lottiefiles/build/frontend-helper.js?ver=52a84b0e5fbe4953e4b3, line 1: TypeError: a.rest is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5312 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://unpkg.com/@lottiefiles/lottie-player@1.5.5/dist/lottie-player.js, line 20: NotSupportedError: CustomElementRegistry.define: 'lottie-player' has already been defined as a custom element
+JavaScript error: https://correio68.com/wp-content/themes/UbberCorreio68/assets/js/menustick.js, line 110: TypeError: btnDelete is null
+JavaScript error: https://correio68.com/wp-content/plugins/lottiefiles/build/frontend-helper.js?ver=52a84b0e5fbe4953e4b3, line 1: TypeError: a.rest is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1965 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://unpkg.com/@lottiefiles/lottie-player@1.5.5/dist/lottie-player.js, line 20: NotSupportedError: CustomElementRegistry.define: 'lottie-player' has already been defined as a custom element
+JavaScript error: https://correio68.com/wp-content/themes/UbberCorreio68/assets/js/menustick.js, line 110: TypeError: btnDelete is null
+JavaScript error: https://correio68.com/wp-content/plugins/lottiefiles/build/frontend-helper.js?ver=52a84b0e5fbe4953e4b3, line 1: TypeError: a.rest is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1930 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://unpkg.com/@lottiefiles/lottie-player@1.5.5/dist/lottie-player.js, line 20: NotSupportedError: CustomElementRegistry.define: 'lottie-player' has already been defined as a custom element
+JavaScript error: https://correio68.com/wp-content/themes/UbberCorreio68/assets/js/menustick.js, line 110: TypeError: btnDelete is null
+JavaScript error: https://correio68.com/wp-content/plugins/lottiefiles/build/frontend-helper.js?ver=52a84b0e5fbe4953e4b3, line 1: TypeError: a.rest is undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5191 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://maps.google.com/maps/api/js?sensor=true&ver=6.1.1, line 92: Error: Could not load "util".
+JavaScript error: https://agencia.ac.gov.br/wp-content/themes/agenciaac-wp/js/navigation.js?ver=20180514, line 1: TypeError: SITENAV is null
+JavaScript error: https://agencia.ac.gov.br/wp-content/themes/agenciaac-wp/js/navigation.js?ver=20180514, line 1: TypeError: SITENAV is null
+JavaScript error: https://agencia.ac.gov.br/wp-content/themes/agenciaac-wp/js/navigation.js?ver=20180514, line 1: TypeError: SITENAV is null
+JavaScript error: https://agencia.ac.gov.br/wp-content/themes/agenciaac-wp/js/navigation.js?ver=20180514, line 1: TypeError: SITENAV is null
+JavaScript error: https://agencia.ac.gov.br/wp-content/themes/agenciaac-wp/js/navigation.js?ver=20180514, line 1: TypeError: SITENAV is null
+JavaScript error: https://agencia.ac.gov.br/wp-content/themes/agenciaac-wp/js/navigation.js?ver=20180514, line 1: TypeError: SITENAV is null
+JavaScript error: https://agencia.ac.gov.br/wp-content/themes/agenciaac-wp/js/navigation.js?ver=20180514, line 1: TypeError: SITENAV is null
+JavaScript error: https://agencia.ac.gov.br/wp-content/themes/agenciaac-wp/js/navigation.js?ver=20180514, line 1: TypeError: SITENAV is null
+JavaScript error: https://agencia.ac.gov.br/wp-content/themes/agenciaac-wp/js/navigation.js?ver=20180514, line 1: TypeError: SITENAV is null
+JavaScript error: https://agencia.ac.gov.br/wp-content/themes/agenciaac-wp/js/navigation.js?ver=20180514, line 1: TypeError: SITENAV is null
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9743315994233128, ca-pub-6648565986455051
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6648565986455051, line 94: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: https://scripts.cleverwebserver.com/20fbf633cb76cabdb962fe343e9ab9d7.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/20fbf633cb76cabdb962fe343e9ab9d7.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/20fbf633cb76cabdb962fe343e9ab9d7.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/20fbf633cb76cabdb962fe343e9ab9d7.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+1670037369135	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 2953 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://scripts.cleverwebserver.com/20fbf633cb76cabdb962fe343e9ab9d7.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://scripts.cleverwebserver.com/20fbf633cb76cabdb962fe343e9ab9d7.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9743315994233128, ca-pub-6648565986455051
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6648565986455051, line 94: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript error: https://scripts.cleverwebserver.com/20fbf633cb76cabdb962fe343e9ab9d7.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/20fbf633cb76cabdb962fe343e9ab9d7.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/20fbf633cb76cabdb962fe343e9ab9d7.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/20fbf633cb76cabdb962fe343e9ab9d7.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 3683 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://scripts.cleverwebserver.com/20fbf633cb76cabdb962fe343e9ab9d7.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9743315994233128, ca-pub-6648565986455051
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6648565986455051, line 94: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5237 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 2938 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+1670037383200	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 519 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9743315994233128, ca-pub-6648565986455051
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6648565986455051, line 94: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://z.moatads.com/quantcastv2691176990399/moatad.js#moatClientLevel1=p-1RYxePXT9bCS2&moatClientLevel2=qfm&moatClientLevel3=6081bb77-6ae4-40d2-9402-e6673db1f9c8&moatClientLevel4=aeb645bd-4c57-4971-8ed8-6a50f06bdf6e&uid=VXxgajV1Pjg6SQMZbgA1J1p2P2lycoComww=, line 240: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 6205 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6648565986455051, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9743315994233128, ca-pub-6648565986455051
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4560 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4665 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9743315994233128, ca-pub-6648565986455051
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6648565986455051, line 94: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4974 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 7714 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9743315994233128, ca-pub-6648565986455051
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6648565986455051, line 94: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+1670037416408	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 7083 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9743315994233128, ca-pub-6648565986455051
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6648565986455051, line 94: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5128 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9743315994233128, ca-pub-6648565986455051
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6648565986455051, line 94: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1074 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://sync.1rx.io/usersync2/rmpssp?sub=taboola&redir=https%3A%2F%2Fsync.taboola.com%2Fsg%unrulyrtbhv-network%2Frtb-h%2F%3Ftaboola_hm%3D%5BRX_UUID%5Dhttp%3A%2F%2Ftrc.taboola.com%2Fsg%2Funrulyrtbhv-network%2F1%2Frtb-h%2F%3Ftaboola_hm%3D%24%7BBUYER_ID%7D, line 1: SyntaxError: illegal character U+0001
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 94: TagError: adsbygoogle.push() error: Warning: Do not add multiple property codes with AdSense tag to avoid seeing unexpected behavior. These codes were found on the page ca-pub-9743315994233128, ca-pub-6648565986455051
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6648565986455051, line 94: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1797 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_zzMrKK29.js, line 230: ReferenceError: markSelector is not defined
+JavaScript warning: https://cdn.bmcdn4.com/js/source/129768202453.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/129768202453.js?v=1.0.3, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/129768202453.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/129768202453.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/129768202453.js?v=1.0.3, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/129768202453.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/129768202453.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/129768202453.js?v=1.0.3, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/129768202453.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/129768202453.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/129768202453.js?v=1.0.3, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/129768202453.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_zzMrKK29.js, line 230: ReferenceError: markSelector is not defined
+JavaScript error: https://tagmanager.alright.network/manager/js/container_zzMrKK29.js, line 230: ReferenceError: markSelector is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://tagmanager.alright.network/manager/js/container_zzMrKK29.js, line 230: ReferenceError: markSelector is not defined
+1670037456054	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4361 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_zzMrKK29.js, line 230: ReferenceError: markSelector is not defined
+1670037460211	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037460212	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037460213	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_zzMrKK29.js, line 230: ReferenceError: markSelector is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 6966 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_zzMrKK29.js, line 230: ReferenceError: markSelector is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 6282 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_zzMrKK29.js, line 230: ReferenceError: markSelector is not defined
+1670037469658	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037469659	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037469663	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 3123 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_zzMrKK29.js, line 230: ReferenceError: markSelector is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 7583 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_zzMrKK29.js, line 230: ReferenceError: markSelector is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4117 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670037478294	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 116: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 116: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIWebProgress.DOMWindow]
+JavaScript error: https://vid.vidoomy.com/sync?gdpr={{.GDPR}}&gdpr_consent={{.GDPRConsent}}&us_privacy={{.USPrivacy}}&redirect=https%3A%2F%2Fu-iad04.e-planning.net%2Fum%3Fdc%3D3ab023ac29ea5990%26fi%3D1414d469a1acb636%26uid%3D%7B%7BVID%7D%7D, line 4: NS_ERROR_UNEXPECTED
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 3929 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 6712 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5177 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5970 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1470 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 3733 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5920 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 61 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5200 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 490 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://jornalopiniao.net/wp-content/themes/opiniao2021/assets/js/custom.js, line 107: TypeError: $(...).sidenav is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 7014 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://jornalopiniao.net/wp-content/themes/opiniao2021/assets/js/custom.js, line 107: TypeError: $(...).sidenav is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5598 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670037577996	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://jornalopiniao.net/wp-content/themes/opiniao2021/assets/js/custom.js, line 107: TypeError: $(...).sidenav is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 2307 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://jornalopiniao.net/wp-content/themes/opiniao2021/assets/js/custom.js, line 107: TypeError: $(...).sidenav is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5227 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://jornalopiniao.net/wp-content/themes/opiniao2021/assets/js/custom.js, line 107: TypeError: $(...).sidenav is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4896 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://jornalopiniao.net/wp-content/themes/opiniao2021/assets/js/custom.js, line 107: TypeError: $(...).sidenav is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 2419 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://jornalopiniao.net/wp-content/themes/opiniao2021/assets/js/custom.js, line 107: TypeError: $(...).sidenav is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5851 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://jornalopiniao.net/wp-content/themes/opiniao2021/assets/js/custom.js, line 107: TypeError: $(...).sidenav is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5042 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://jornalopiniao.net/wp-content/themes/opiniao2021/assets/js/custom.js, line 107: TypeError: $(...).sidenav is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5503 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://jornalopiniao.net/wp-content/themes/opiniao2021/assets/js/custom.js, line 107: TypeError: $(...).sidenav is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 6364 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://scripts.cleverwebserver.com/0df94ca5d0479fab1af38bc25e84e0bf.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://tagmanager.alright.network/manager/js/container_jL4hmRA3.js, line 291: TypeError: referenceElement is null
+JavaScript error: https://data.gblcdn.com/data/pastoclockp.js?aid=d38eebc021752f86f159&pubid=f54e7f90-67cb-11ed-813d-a5cdee957513&pid=mzgugbbyjbdwtcc&renderD=0&limitT=0&limitH=24&parent=body&t=i&mt=b, line 1: Error: axl
+1670037633575	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://scripts.cleverwebserver.com/0df94ca5d0479fab1af38bc25e84e0bf.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/0df94ca5d0479fab1af38bc25e84e0bf.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5646 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670037637717	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670037637745	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://scripts.cleverwebserver.com/0df94ca5d0479fab1af38bc25e84e0bf.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://tagmanager.alright.network/manager/js/container_jL4hmRA3.js, line 291: TypeError: referenceElement is null
+JavaScript error: https://scripts.cleverwebserver.com/0df94ca5d0479fab1af38bc25e84e0bf.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/0df94ca5d0479fab1af38bc25e84e0bf.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/0df94ca5d0479fab1af38bc25e84e0bf.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 7071 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670037646183	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670037646188	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_jL4hmRA3.js, line 291: TypeError: referenceElement is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 6067 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670037653836	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670037653888	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_jL4hmRA3.js, line 291: TypeError: referenceElement is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4777 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_jL4hmRA3.js, line 291: TypeError: referenceElement is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 6834 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670037666687	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670037666853	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_jL4hmRA3.js, line 291: TypeError: referenceElement is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 7163 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670037673641	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670037673685	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_jL4hmRA3.js, line 291: TypeError: referenceElement is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 7540 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_jL4hmRA3.js, line 291: TypeError: referenceElement is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 2999 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670037685683	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_jL4hmRA3.js, line 291: TypeError: referenceElement is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1308 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://tagmanager.alright.network/manager/js/container_jL4hmRA3.js, line 291: TypeError: referenceElement is null
+[2022-12-03T03:21:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-12-03T03:21:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-12-03T03:21:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2022-12-03T03:21:32Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1583 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1670037696827	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670037696835	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1670037728081	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://ecosdanoticia.net.br/2022/11/tjac-tera-horario-do-expediente-alterado-em-dias-de-jogos-do-brasil-na-copa/, line 1223: SyntaxError: unterminated comment
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.bmcdn4.com/js/source/567239628528.js?v=1.0.3, line 1: WebGL context was lost.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1452 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 803 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 5041 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 3954 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4004 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://ecosdanoticia.net.br/2022/11/tjac-julga-pedido-de-aumento-de-pena-para-ex-agente-que-assassinou-e-decapitou-a-esposa/, line 1222: SyntaxError: unterminated comment
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670037758824	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037758825	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037758825	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037758836	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037758895	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037758896	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037758897	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://scripts.cleverwebserver.com/dc238c9533597a8cc2a9738ebde4bfcb.js line 1 > eval, line 1: TypeError: e.data.startsWith is not a function
+JavaScript error: https://ecosdanoticia.net.br/2022/11/com-quase-mil-processos-pautados-tjac-da-inicio-a-17-semana-nacional-de-conciliacao/, line 1223: SyntaxError: unterminated comment
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670037767542	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 7338 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ecosdanoticia.net.br/2022/10/17-semana-nacional-de-conciliacao-sera-promovida-de-7-a-11-de-novembro-pelo-tjac/, line 1221: SyntaxError: unterminated comment
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ecosdanoticia.net.br/2022/10/pleno-administrativo-elege-nova-administracao-do-tjac-para-o-bienio-2023-2025/, line 1221: SyntaxError: unterminated comment
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670037775582	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775583	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775587	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775588	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775588	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775589	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775590	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775591	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775620	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775621	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775636	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775637	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775637	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775637	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775638	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037775639	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://ecosdanoticia.net.br/2022/10/prova-do-processo-seletivo-de-estagio-do-tjac-sera-realizada-neste-domingo/, line 1221: SyntaxError: unterminated comment
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670037781576	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037781583	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037781701	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ecosdanoticia.net.br/2022/10/tjac-participa-de-reuniao-sobre-pessoas-em-situacao-de-rua-que-estao-em-regime-semiaberto/, line 1221: SyntaxError: unterminated comment
+1670037787385	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://ecosdanoticia.net.br/2022/10/tjac-lanca-edital-para-escolha-de-membro-da-2a-turma-recursal/, line 1221: SyntaxError: unterminated comment
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1670037793876	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://ecosdanoticia.net.br/2022/09/tjac-arrecada-852-pacotes-de-fraldas-com-inscricao-solidaria-de-processo-seletivo-para-estagio/, line 1223: SyntaxError: unterminated comment
+1670037797466	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037797513	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037797514	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037797554	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037797558	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037797644	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037797646	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037797689	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037797690	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037797737	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037797737	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670037797844	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://ecosdanoticia.net.br/2022/09/tjac-mantem-condenacao-de-medico-e-hospital-por-compressa-esquecida-dentro-do-abdomen-da-paciente/, line 1223: SyntaxError: unterminated comment
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1778 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4042 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 6058 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ftd.agency/libs/e.js, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 148 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.ftd.agency/libs/e.js, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4344 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.ftd.agency/libs/e.js, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 1817 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.ftd.agency/libs/e.js, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 420 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.ftd.agency/libs/e.js, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 7297 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.ftd.agency/libs/e.js, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 4367 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.ftd.agency/libs/e.js, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 2065 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.ftd.agency/libs/e.js, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 70 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.ftd.agency/libs/e.js, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Cy76TGYNwlBdeFKzRh_Qc2a075RKB_J9dWAUlCdaUYI.js line 2 > eval line 3565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.ftd.agency/libs/e.js, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

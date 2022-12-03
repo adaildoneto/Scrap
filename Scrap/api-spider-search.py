@@ -35,7 +35,7 @@ sites = ['http://ac24horas.com', 'http://contilnetnoticias.com.br', 'http://corr
 jnews = len (sites)
 
 for i in range (jnews):
-    turl = (sites[i] + '/wp-json/wp/v2/search/?subtype=post&search=Cameli')
+    turl = (sites[i] + '/wp-json/wp/v2/search/?subtype=post&search=TJAC')
     response = requests.get(turl)
 
     data = response.text
